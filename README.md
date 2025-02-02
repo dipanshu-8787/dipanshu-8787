@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Agnihotri</h1>
+<h3 align="center">Passionate learner of new technologies | Learning something new every day</h3>
+
+- 🌱 I’m currently learning **Web Development**
+
+- 👯 I’m looking to collaborate on **exciting and innovative projects**
+
 - 📫 How to reach me **dipansh89agnihotri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
