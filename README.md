@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Agnihotri</h1>
-<h3 align="center">Passionate learner of new technologies | Learning something new every day</h3>
+<h2 align="center">Passionate learner of new technologies | Learning something new every day</h2>
+<a href="https://img.freepik.com/premium-vector/programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1768.jpg?w=360"></a>
 
 - 🌱 I’m currently learning **Web Development**
 
