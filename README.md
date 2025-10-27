@@ -3,7 +3,7 @@
 
 <h3>Welcome to my GitHub profile!😊</h3>
 <h3> 🌟About Me</h3>
-🚀 I'm a 2nd year student pursuing Bachelor's in Technology from Lovely Professional University. I'm a passionate leamer who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my Data Structures and Algorithms skills
+🚀 I'm a 3rd year student pursuing Bachelor's in Technology from Lovely Professional University. I'm a passionate leamer who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my Data Structures and Algorithms skills
 
 - 🌱 I’m currently learning **Web Development.**
 - 👯 I’m looking to collaborate on **exciting and innovative projects.**
